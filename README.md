@@ -10,6 +10,8 @@ Oi! Eu sou a Maria Clara!
   <img align="center" alt="clara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="clara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="clara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align "right" alt="clara-gif" https://github.com/mcprodrigues/mcprodrigues/assets/141579836/3e351d6b-f4c9-4702-80ea-862621711a21)>
+
 </div>
 
 ##
