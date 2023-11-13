@@ -8,13 +8,13 @@ Sou entusiasta em Desenvolvimento de Software e estou em constante busca por opo
 
 <hr>
 
-  <a title="LinkedIn">
+  <a href="https://www.linkedin.com/in/maria-clara-prado-rodrigues-249233286/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-clara-prado-rodrigues-249233286/" alt="LinkedIn"/></a>
 
-  <a title="Instagram">
+  <a href= "https://www.instagram.com/winterbona/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/winterbona/" alt="Instagram"/></a>
 
-  <a title="YouTube">
+  <a href= "" title="YouTube">
   <img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white" alt="Gmail"/></a>
   
 </p>
