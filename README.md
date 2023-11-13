@@ -1,23 +1,20 @@
-Oi! Eu sou a Maria Clara! 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-- Desenvolvedora Front-End 
-- Estudante de Análise e Desenvolvimento de Software 
-- Contate-me no email mariaclarapradorodrigues@gmail.com
-- Pronomes Ela/Dela
+Sou entusiasta em Desenvolvimento de Software e estou em constante busca por oportunidades que me desafiem. Iniciei meu desenvolvimento na área de tecnologias em 2023 e estou sempre comprometida em contribuir para projetos desafiadores que me permitam aplicar minhas habilidades técnicas e criatividade. :)
 
-[![card](https://github-readme-stats.vercel.app/api?username=mcprodrigues&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/static/v1?label=Overview&message=Maria Clara&color=C05AC0&style=for-the-badge&logo=GitHub" alt="Ilustração do nome">
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="clara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="clara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="clara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<p> Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>.</p>
 
-##
+<hr>
 
-<div> 
-  <a href = "mailto:mariaclarapradorodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/maria-clara-prado-rodrigues-249233286/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-clara-prado-rodrigues-249233286/" alt="LinkedIn"/></a>
+
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/winterbona/" alt="Instagram"/></a>
+
+  <a href="#" title="YouTube">
+  <img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white" alt="Gmail"/></a>
   
-</div>
-
+</p>
