@@ -1,20 +1,61 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="readme/hero.svg" alt="Hero">
 
-Sou entusiasta em Desenvolvimento de Software e estou em constante busca por oportunidades que me desafiem. Iniciei meu desenvolvimento na área de tecnologias em 2023 e estou sempre comprometida em contribuir para projetos desafiadores que me permitam aplicar minhas habilidades técnicas e criatividade. :)
+Passionate enthusiast of software development. I love exploring new technologies and creating solutions that make a difference.
+- 👩🏻‍💻 Systems Analysis and Development Student at **[UNIFOR](https://unifor.br/)**
+- 🛠  I thrive on building innovative solutions and continuously exploring new technologies to enhance my skills and deliver impactful projects
+- 🌐 Here are some of the tech stacks I work with:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  />
+  <img width="13" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postsql logo"  />
+  <img width="13" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="35" alt="angular logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+</div>
+<br>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Maria Clara&color=C05AC0&style=for-the-badge&logo=GitHub" alt="Ilustração do nome">
-
-<p> Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>.</p>
+<details>
+  <summary>Curiosities about me!</summary>
+    <br>
+  <ul>
+    <li>I have a strong desire to start in the game development field! I try to explore Unity a bit in my free time.</li>
+    <li>My first experience with coding was on Tumblr, where I edited the HTML of my blogs. XD</li>
+    <li>When coding, I love listening to Frank Zappa! Non-stop. ⭐️</li>
+  </ul>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mcprodrigues&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false" height="150" alt="languages graph"  />
+</details>
 
 <hr>
 
-  <a href="https://www.linkedin.com/in/maria-clara-prado-rodrigues-249233286/"  target="_blank" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-clara-prado-rodrigues-249233286/" alt="LinkedIn"/></a>
-
-  <a href= "https://www.instagram.com/winterbona/" target="_blank" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/winterbona/" alt="Instagram"/></a>
-
-  <a href= "#" title="YouTube">
-  <img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white" alt="Gmail"/></a>
-  
+<p align="center">
+<i>Get connect with me!</i>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mcprodrigues/" target="_blank">
+    <img src="readme/linkedin.svg" height="30" alt="Linkedin"/>
+  </a>
+  <img width="5" />
+  <a href="mailto:dev.mcprodrigues@gmail.com">
+    <img src="readme/email.svg" height="32" alt="Email"/>
+  </a>
+  <img width="5" />
+  <a href="#" target="_blank">
+    <img src="readme/external-link.svg" height="30" alt="External Link"/>
+  </a>
 </p>
+
+<br><br>
+<img src="readme/bottom.svg" alt="Bottom">
