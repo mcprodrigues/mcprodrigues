@@ -29,14 +29,13 @@ I'm a **Software / AI Engineer** at **Exitus** and a final-semester **Systems An
 ![Python](https://img.shields.io/badge/python-f6e3ea?style=flat-square&logo=python&logoColor=9c5f78)
 ![TypeScript](https://img.shields.io/badge/typescript-f6e3ea?style=flat-square&logo=typescript&logoColor=9c5f78)
 ![JavaScript](https://img.shields.io/badge/javascript-f6e3ea?style=flat-square&logo=javascript&logoColor=9c5f78)
+![Java](https://img.shields.io/badge/java-f6e3ea?style=flat-square&logo=openjdk&logoColor=9c5f78)
 
 **backend & apis**<br>
 ![NestJS](https://img.shields.io/badge/nestjs-f6e3ea?style=flat-square&logo=nestjs&logoColor=9c5f78)
 ![Node.js](https://img.shields.io/badge/node.js-f6e3ea?style=flat-square&logo=nodedotjs&logoColor=9c5f78)
-![Deno](https://img.shields.io/badge/deno-f6e3ea?style=flat-square&logo=deno&logoColor=9c5f78)
 ![FastAPI](https://img.shields.io/badge/fastapi-f6e3ea?style=flat-square&logo=fastapi&logoColor=9c5f78)
-![Flask](https://img.shields.io/badge/flask-f6e3ea?style=flat-square&logo=flask&logoColor=9c5f78)
-![GraphQL](https://img.shields.io/badge/graphql-f6e3ea?style=flat-square&logo=graphql&logoColor=9c5f78)
+![Spring](https://img.shields.io/badge/spring-f6e3ea?style=flat-square&logo=spring&logoColor=9c5f78)
 
 **frontend**<br>
 ![React](https://img.shields.io/badge/react-f6e3ea?style=flat-square&logo=react&logoColor=9c5f78)
